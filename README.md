@@ -50,7 +50,7 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç Any Nou.  Pau i Salu
 #### AlumneFila1 PC5:
 
 
-#### AlumneFila1 PC6:
+#### AlumneFila1 PC6: Hola soc Andrea Pérez, la tasca que he realitzat ha sigut canviar el codi font de java per posar el meu nom, a través de la meua pròpia branca
 
 
 #### AlumneFila2 PC1:
