@@ -123,7 +123,9 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila1PC6() {
-
+		System.out.println("Hola sóc Andrea Pérez us desitge un Bon Nadal i Any nou");
+		System.out.println("*******************************************************");
+		System.out.println();
 	}
 
 	// FILA 2
